@@ -1,7 +1,2 @@
 nihao
 ni sha bi
-<<<<<<< HEAD
-hibushi
-=======
-shibushi 
->>>>>>> dev

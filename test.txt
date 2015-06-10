@@ -1,3 +1,9 @@
 nihao
 ni sha bi
+<<<<<<< HEAD
 ni cai shi sha bi 
+=======
+dev branch
+dev bug test
+
+>>>>>>> b7bf5912689da060bce7a1d9742526728ec5c574
